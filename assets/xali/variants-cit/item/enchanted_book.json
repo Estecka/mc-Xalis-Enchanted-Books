@@ -3,6 +3,7 @@
 	"items": "minecraft:enchanted_book",
 	"modelPrefix": "item/enchanted_book/",
 	"modelParent": "item/generated",
+	"itemsFromModel": true,
 	"parameters": {
 		"levelSeparator": ""
 	}
